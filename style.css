@@ -6,3 +6,40 @@ body {
     background-image: url("https://unblast.com/wp-content/uploads/2020/05/Light-Wood-Background-Texture-5.jpg")
 }
 
+.container {
+
+    margin-top:50px;
+    margin-bottom: 50px;
+}
+
+.text-info {
+    font-size: 28px;
+    font-weight: bolder;
+
+}
+
+img {
+    max-width: 150px;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

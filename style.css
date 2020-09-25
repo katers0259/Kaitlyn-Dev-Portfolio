@@ -1,32 +1,40 @@
+
+/* this is adding the color background behind the name on the nav bar */
 .navbar-brand{
     background-color: teal;
     
 }
+/* this is the image for the entire background */
 body {
     background-image: url("https://unblast.com/wp-content/uploads/2020/05/Light-Wood-Background-Texture-5.jpg")
 }
 
+/* this is the container where the card lives */
 .container {
 
     margin-top:50px;
     margin-bottom: 50px;
 }
 
+/* this styles the thank you page after they submit information on the contact me page */
 .text-info {
     font-size: 28px;
     font-weight: bolder;
 
 }
 
+/* styles the image on the about me page */
 img {
     max-width: 150px;
     margin-right: 10px;
 }
 
+/* styles the headers on all 3 pages on the cards */
 a{
     color:teal;
     
 }
+/* styles the footer on all 3 pages. */
 footer {
     text-align: center;
     margin-top: 100px;

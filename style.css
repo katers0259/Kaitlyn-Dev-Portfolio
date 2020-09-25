@@ -35,9 +35,8 @@ a{
     
 }
 /* styles the footer on all 3 pages. */
-footer {
+.fixed-bottom{
     text-align: center;
-    margin-top: 100px;
     font-size: 16px;
     background-color: whitesmoke;
     

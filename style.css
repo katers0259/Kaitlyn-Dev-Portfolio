@@ -27,6 +27,7 @@ body {
 img {
     max-width: 150px;
     margin-right: 10px;
+    float: left;
 }
 
 /* styles the headers on all 3 pages on the cards */
@@ -41,7 +42,10 @@ a{
     background-color: whitesmoke;
     
 }
-
+.img {
+    margin: 20px;
+ display: inline-block;
+}
 
 
 

@@ -1,7 +1,8 @@
 
 /* this is adding the color background behind the name on the nav bar */
 .navbar-brand{
-    background-color: teal;
+    font-family: cursive;
+    color: teal;
     
 }
 /* this is the image for the entire background */
@@ -25,11 +26,10 @@ body {
 
 /* styles the image on the about me page */
 img {
-    max-width: 150px;
+    max-width: 200px;
     margin-right: 10px;
     float: left;
 }
-
 /* styles the headers on all 3 pages on the cards */
 a{
     color:teal;
@@ -45,13 +45,21 @@ a{
 .img {
     margin: 20px;
  display: inline-block;
+ 
 }
 
-.infobox {
-    float: right;
-    
-}
 
+.link {
+    font-family: cursive;
+    background-color: darkgray;
+    color: #ffffff;
+  text-decoration: none;
+}
+.link:hover{
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #312052;
+}
 
 
 

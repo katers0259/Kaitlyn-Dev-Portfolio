@@ -61,7 +61,9 @@ a{
     background-color: #312052;
 }
 
-
+.card-body {
+    align-items: center;
+}
 
 
 

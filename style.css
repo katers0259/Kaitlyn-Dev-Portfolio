@@ -1,81 +1,76 @@
-
-/* this is adding the color background behind the name on the nav bar */
-.navbar-brand{
-    font-family: cursive;
-    color: teal;
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
     
-}
-/* this is the image for the entire background */
-body {
-    background-image: url("https://unblast.com/wp-content/uploads/2020/05/Light-Wood-Background-Texture-5.jpg")
+  
 }
 
-/* this is the container where the card lives */
-.container {
 
-    margin-top:50px;
-    margin-bottom: 50px;
-}
-
-/* this styles the thank you page after they submit information on the contact me page */
-.text-info {
-    font-size: 28px;
-    font-weight: bolder;
-
-}
-
-/* styles the image on the about me page */
-img {
-    max-width: 200px;
-    margin-right: 10px;
-    float: left;
-}
-/* styles the headers on all 3 pages on the cards */
-a{
-    color:teal;
+#parallax {
+    /* The image used */
+    background-image: url("/Assets/blackwood.jpg");
+  
+    /* Set a specific height */
+    height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.container-sm {
     
+    width:100%;
+    background: #9a8c98;
+    height: 512px;
+    background-position: center;
+    background-size:cover;
+
 }
-/* styles the footer on all 3 pages. */
-.fixed-bottom{
-    text-align: center;
-    font-size: 16px;
-    background-color: whitesmoke;
-    
-}
-.img {
-    margin: 20px;
- display: inline-block;
- 
+.sidebar {
+    position: fixed;
+    width: 200px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background: #22223b;
+    padding-top: 50px;
 }
 
-
-.link {
-    font-family: cursive;
-    background-color: darkgray;
-    color: #ffffff;
-  text-decoration: none;
-}
-.link:hover{
-    color: #ffffff;
+.sidebar a{
+  font-size: 28px;
+  font-weight: 600; 
+    display: block;
+    padding: 10px 20px;
+    color: #9a8c98;
     text-decoration: none;
-    background-color: #312052;
+    font-family: 'Unica One', cursive;
+    letter-spacing: 2px;
+  
+
 }
 
-.card-body {
-    align-items: center;
+.sidebar a:hover {
+  color: #f2e9e4;
+  
 }
 
+h1 {
+    padding: 25px;
+    font-weight: 700;
+    text-align: right;
+    font-family: 'Unica One', cursive;
+}
 
+#image {
+    margin: 10px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
+.btn {
+    margin: 15px;
+    float: right;
+    text-decoration: none;
+    
+}

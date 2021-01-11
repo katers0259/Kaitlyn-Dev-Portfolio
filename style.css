@@ -56,6 +56,9 @@
   color: #f2e9e4;
   
 }
+p{  
+    font-weight: 700;
+}
 
 h1 {
     padding: 25px;
@@ -72,5 +75,51 @@ h1 {
     margin: 15px;
     float: right;
     text-decoration: none;
+
+}
+h2 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 75px;
+    font-family: 'Unica One', cursive;
+    text-align: center;
+    color: #f2e9e4;
+}
+.middle {
+    font-size: 20px;
+    color: #9a8c98;
+    text-align: center;
+}
+.hover07 figure img {
     
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover07 figure:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+
+.img {
+    max-width: 300px;
+    max-height: 300px;
+    margin: 5px 15px;
+}
+
+label {
+    margin-top: 25px;
+    font-family:'Unica One', cursive;
+    justify-content: center;
+    
+    color: #f2e9e4
+}
+
+.colab {
+    color:#f2e9e4;
+    padding: 25px;
+    font-weight: 700;
+    text-align: right;
+    font-family: 'Unica One', cursive;
 }

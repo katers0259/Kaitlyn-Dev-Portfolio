@@ -5,7 +5,7 @@ Portfolio Web Page
 This Web page is my web Portfolio, that contains my contact information. links to deployed applications/repo's, and a downloadable resume.
 -----
 
-https://katers0259.github.io/BranaganHW2/
+https://katers0259.github.io/Kaitlyn-Dev-Portfolio/
 
 -----
 ![portfolio 1](https://user-images.githubusercontent.com/69743567/104151256-c713d700-5399-11eb-9f32-d970949d0cfb.PNG)

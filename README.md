@@ -5,11 +5,10 @@ Portfolio Web Page
 This Web page is my web Portfolio, that contains my contact information. links to deployed applications/repo's, and a downloadable resume.
 -----
 
-https://katers0259.github.io/BranaganHW2/
+https://katers0259.github.io/Kaitlyn-Dev-Portfolio/
 
 -----
+![portfolio 1](https://user-images.githubusercontent.com/69743567/104151256-c713d700-5399-11eb-9f32-d970949d0cfb.PNG)
+![portfolio2](https://user-images.githubusercontent.com/69743567/104151257-c7ac6d80-5399-11eb-849f-94758eb1f319.PNG)
+![portfolio3](https://user-images.githubusercontent.com/69743567/104151258-c7ac6d80-5399-11eb-8f54-586471808c71.PNG)
 
-![aboutme](https://user-images.githubusercontent.com/69743567/94227644-d258fa80-feaf-11ea-8bef-0b8cf948794c.PNG)
-![contactme](https://user-images.githubusercontent.com/69743567/94227648-d553eb00-feaf-11ea-8e5e-5a95ee0ffea6.PNG)
-![portfolio](https://user-images.githubusercontent.com/69743567/94227653-d7b64500-feaf-11ea-8ca1-767c21d11143.PNG)
-![thankyou](https://user-images.githubusercontent.com/69743567/94227657-d9800880-feaf-11ea-841c-903b8767a97f.PNG)

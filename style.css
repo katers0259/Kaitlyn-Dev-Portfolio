@@ -7,9 +7,10 @@
 }
 
 
+
 #parallax {
     /* The image used */
-    background-image: url("/Assets/blackwood.jpg");
+    background-image: url("https://raw.githubusercontent.com/katers0259/Kaitlyn-Dev-Portfolio/master/Assets/blackwood.jpg");
   
     /* Set a specific height */
     height: 500px;

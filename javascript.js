@@ -1,11 +1,6 @@
 $(document).ready(function(){
 
-    function getResume() {
-        document.getElementById("resume").download;
-    }
-    getResume()
-
-
+    $('.parallax-window').parallax({imageSrc: '/path/to/image.jpg'});
 
 
 })

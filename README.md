@@ -4,7 +4,6 @@ Portfolio Web Page
 -----
 This Web page is my web Portfolio, that contains my contact information. links to deployed applications/repo's, and a downloadable resume.
 -----
-
 https://katers0259.github.io/Kaitlyn-Dev-Portfolio/
 
 -----
